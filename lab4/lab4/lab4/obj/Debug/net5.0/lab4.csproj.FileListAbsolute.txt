@@ -1,0 +1,16 @@
+F:\lab4\lab4\lab4\obj\Debug\net5.0\lab4.csproj.AssemblyReference.cache
+F:\lab4\lab4\lab4\obj\Debug\net5.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+F:\lab4\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfoInputs.cache
+F:\lab4\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfo.cs
+F:\lab4\lab4\lab4\obj\Debug\net5.0\lab4.csproj.CoreCompileInputs.cache
+F:\lab4\lab4\lab4\bin\Debug\net5.0\lab4.exe
+F:\lab4\lab4\lab4\bin\Debug\net5.0\lab4.deps.json
+F:\lab4\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.json
+F:\lab4\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.dev.json
+F:\lab4\lab4\lab4\bin\Debug\net5.0\lab4.dll
+F:\lab4\lab4\lab4\bin\Debug\net5.0\ref\lab4.dll
+F:\lab4\lab4\lab4\bin\Debug\net5.0\lab4.pdb
+F:\lab4\lab4\lab4\obj\Debug\net5.0\lab4.dll
+F:\lab4\lab4\lab4\obj\Debug\net5.0\ref\lab4.dll
+F:\lab4\lab4\lab4\obj\Debug\net5.0\lab4.pdb
+F:\lab4\lab4\lab4\obj\Debug\net5.0\lab4.genruntimeconfig.cache
